@@ -1,9 +1,0 @@
-robotics\maze\dijkstra\Vertex.class
-robotics\maze\projection\projection\MazeMap.class
-robotics\maze\utils\Constants.class
-robotics\maze\utils\FileUtils.class
-robotics\maze\projection\projection\CoordinatePoint.class
-robotics\maze\exceptions\AmazeProcessingException.class
-robotics\maze\enums\HeadingType.class
-robotics\maze\enums\PointType.class
-robotics\maze\utils\Stopwatch.class

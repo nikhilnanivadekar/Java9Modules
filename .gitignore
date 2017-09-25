@@ -1,0 +1,8 @@
+
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/workspace.xml
+core/target/generated-sources/
+maze-parser/target/generated-sources/
+motion-planning/target/generated-sources/

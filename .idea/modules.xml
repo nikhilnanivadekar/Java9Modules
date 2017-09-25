@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java9Modules.iml" filepath="$PROJECT_DIR$/.idea/Java9Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maze-parser/maze-parser.iml" filepath="$PROJECT_DIR$/maze-parser/maze-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maze-solver.iml" filepath="$PROJECT_DIR$/maze-solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motion-planning/motion-planning.iml" filepath="$PROJECT_DIR$/motion-planning/motion-planning.iml" />
+    </modules>
+  </component>
+</project>
