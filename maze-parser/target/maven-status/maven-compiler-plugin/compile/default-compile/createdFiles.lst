@@ -1,0 +1,15 @@
+robotics\maze\image\Line.class
+robotics\maze\image\MarkerColorRange$HslConstraint.class
+robotics\maze\projection\MazeParserRunner.class
+robotics\maze\image\JpegImageWrapper.class
+robotics\maze\image\MarkerColorRange.class
+robotics\maze\image\TestImageWrapper.class
+robotics\maze\image\MazeImageCreator.class
+robotics\maze\image\ImageWrapper.class
+robotics\maze\image\MazeImageCreator$ColorDescriptor.class
+robotics\maze\projection\ParsedMazeImage.class
+robotics\maze\image\ColorConstants.class
+robotics\maze\image\MazeImageCreator$MazeImagePalette.class
+robotics\maze\projection\MazeParser.class
+robotics\maze\projection\MazeFeature.class
+robotics\maze\projection\MazeParser$1.class

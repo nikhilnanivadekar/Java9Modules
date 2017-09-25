@@ -1,0 +1,4 @@
+robotics\maze\dijkstra\DijkstraAlgorithm.class
+robotics\maze\dijkstra\TestMain.class
+robotics\maze\dijkstra\MazeMapToVertexListAdapter.class
+robotics\maze\dijkstra\ParsingAndDrawingTestMain.class
