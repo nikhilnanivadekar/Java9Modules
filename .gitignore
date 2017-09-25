@@ -3,6 +3,6 @@
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/workspace.xml
-core/target/generated-sources/
-maze-parser/target/generated-sources/
-motion-planning/target/generated-sources/
+core/target/
+maze-parser/target/
+motion-planning/target/
